@@ -1,7 +1,7 @@
 --Item that designates that character is a hardcore character.
 local hardCoreItem = 90000
 --NPC id
-local hcNPC = 90000
+local hcNPC = 9000000
 --This is how long the character is locked for - default is 32 years.
 local banTimer = 999999999
 
